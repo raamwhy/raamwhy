@@ -22,10 +22,6 @@
 ### 📊 **GitHub Stats**
 <div align="center">
 
-  <img alt="GitHub Stats" 
-       src="https://github-readme-stats.vercel.app/api?username=raamwhy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=2196f3&icon_color=2196f3&text_color=ffffff" 
-       height="160px"/>
-
   <img alt="GitHub Streak" 
        src="https://github-readme-streak-stats.herokuapp.com/?user=raamwhy&theme=tokyonight&hide_border=true&background=00000000&ring=2196f3&fire=2196f3&currStreakLabel=2196f3" 
        height="160px"/>
