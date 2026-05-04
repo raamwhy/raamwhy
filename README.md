@@ -30,23 +30,6 @@
 
 ---
 
-### 🛠️ **Tech Stack & Tools**
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 15px;"> 
-  <img src="https://skillicons.dev/icons?i=py,js,cpp,php,html,css" height="40" alt="Languages" /> 
-  <img src="https://skillicons.dev/icons?i=tensorflow,react,nodejs,laravel,tailwind,bootstrap" height="40" alt="Frameworks" /> 
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,fastapi" height="40" alt="Databases & Tools" /> 
-  <img src="https://skillicons.dev/icons?i=vscode,figma,postman,obs" height="40" alt="Design & Stream" /> 
-</div>
-
----
-
-### ✍️ **Dev Quote**
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
-</div>
-
----
-
 ### 🌐 **Connect with Me**
 <div align="center">
   <a href="https://www.instagram.com/raamwhy" target="_blank">
@@ -58,10 +41,4 @@
   <a href="https://www.linkedin.com/in/ram-wijaya/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
-</div>
-
----
-
-<div align="center">
-  <strong>✨ Keep Growing and Keep Coding! 🚀</strong>
 </div>
