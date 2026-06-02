@@ -6,15 +6,9 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=7000&pause=1000&color=12F7DE&center=true&vCenter=true&width=900&lines=Informatics+Student+|+AI+Engineer+&+Web+Developer+from+Indonesia" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=7000&pause=1000&color=12F7DE&center=true&vCenter=true&width=900&lines=Web+Developer+|+AI+Engineer+&+Web+Developer+from+Indonesia" alt="Typing SVG" />
   </a>
 </p>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/ram-wijaya/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
-  </a>
-</div>
 
 ---
 
