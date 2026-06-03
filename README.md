@@ -12,18 +12,6 @@
 
 ---
 
-
-### 📊 **GitHub Stats**
-<div align="center">
-
-  <img alt="GitHub Streak" 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=raamwhy&theme=tokyonight&hide_border=true&background=00000000&ring=2196f3&fire=2196f3&currStreakLabel=2196f3" 
-       height="160px"/>
-
-</div>
-
----
-
 ### 🌐 **Connect with Me**
 <div align="center">
   <a href="https://www.instagram.com/raamwhy" target="_blank">
